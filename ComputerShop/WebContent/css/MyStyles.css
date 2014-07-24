@@ -1,0 +1,20 @@
+/*
+	Boske bog css-a
+*/
+
+.boja {color:olive;}
+
+.linkovi1 {
+	padding: 8;
+	border: 1;
+	border-style: solid;
+	background-color: aqua;
+}
+
+.linkovi2 {
+	padding: 8;
+	border: 1;
+	border-style: solid;
+	background-color: yellow;
+}
+
